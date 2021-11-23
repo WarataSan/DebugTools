@@ -33,9 +33,11 @@
 ![image](https://user-images.githubusercontent.com/91827267/142227083-1b63f961-558c-4bdb-a152-d7b7d2600114.png)
 
 > ---DIP Script操作例---
+> 
 > <DIPの設定>
 > 
 > `dev.DIP.SetValue<int>(dev.DIP.GameSystem.ID.GameSpeed, GameFPS);`
+> 
 > <DIPの取得>
 > 
 > `var gameSpeed = dev.DIP.GetValue<int>(dipID);`

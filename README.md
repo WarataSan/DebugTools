@@ -1,7 +1,8 @@
 # DebugTools
 
-機能：
+**機能：**
 - InGame Console
+
  ゲーム中にログやDIPのデータ変更を行えます
  
 ![image](https://user-images.githubusercontent.com/91827267/142227024-fccbcefa-8337-4bbc-85a1-b897565f829d.png)
@@ -25,6 +26,7 @@
 > 
 
 - Dip Switch
+
  デバッグ用のスイッチデータを作成できます
  値に合わせて、好みのデバッグ処理を行うことが可能
  
